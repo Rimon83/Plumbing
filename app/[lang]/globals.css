@@ -1,0 +1,87 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Upright:wght@300;400;500;600;700&family=Open+Sans:wght@300;400;500;600;700&display=swap');
+
+
+*{
+  padding: 0;
+  margin:0;
+  box-sizing: border-box;
+}
+
+body, html{
+overflow-x: hidden;
+max-width:100vw;
+scroll-behavior: smooth;
+background-image: linear-gradient(to right,rgb(196, 243, 206) , rgb(238, 232, 154));
+}
+
+p{
+  font-family: 'Open Sans', sans-serif;
+  line-height: 38px;
+
+}
+h1{
+  font-family: 'Cormorant Upright', serif;
+  background:  linear-gradient(89.97deg, #373ad6 ,rgb(237, 168, 189) ,  #d6a086 );;
+ background-clip: text;
+ -webkit-background-clip: text;
+ -webkit-text-fill-color: transparent;
+}
+
+/* TextAnimation component */
+.logoContainer {
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+  gap: 3em;
+  padding:5em
+}
+.textContainer {
+  display: flex;
+}
+
+.textContainer h2 {
+  font-size: 1.5rem;
+  text-transform: uppercase;
+  color: black;
+  -webkit-text-fill-color: rgb(158, 154, 154);
+  -webkit-text-stroke-width: 0.5px;
+  -webkit-text-stroke-color: #413f3f;
+  white-space: nowrap;
+  padding: 0 6rem;
+  letter-spacing: 2px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+  animation: move-rtl 10s linear infinite;
+}
+
+.future {
+  -webkit-text-fill-color: rgb(255, 0, 106);
+}
+
+@keyframes move-rtl {
+  0% {
+    transform: translate(0, 0);
+  }
+  100% {
+    transform: translate(-100%, 0);
+  }
+}
+
+
+
+
+
+
+
+.form_input, textarea {
+  @apply  w-full rounded-md mt-2 p-2 text-sm border border-gray-300;
+}
+
+
+
+
+

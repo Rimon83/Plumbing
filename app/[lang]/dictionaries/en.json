@@ -1,0 +1,145 @@
+{
+  "lang": "en",
+  "home": "home",
+  "about": "about",
+  "contact": "contact us",
+  "projects": "projects list",
+  "services": "services",
+  "title": "Heating, AC, and plumbing services for commercial and residential properties",
+  "desc1": "We are dedicated to providing top-quality plumbing services to our customers With years of experience in the industry, our team of professional plumbers is committed to delivering reliable and efficient solutions for all your plumbing needs. Whether it's a simple repair or a complex installation, we strive to exceed expectations and ensure customer satisfaction with every job we undertake.",
+  "desc2":" Mountains Mechanical is more than just a plumbing service provider – we are your dedicated partners in maintaining the integrity of your property's plumbing systems. As professionals who prioritize transparency and clear communication, we make it a priority to understand your specific needs and offer tailored solutions that align with your goals and budget. Our commitment to continual improvement and staying abreast of industry best practices ensures that our clients receive the highest standard of service and craftsmanship. Trust Mountains Mechanical for all your plumbing requirements, and experience the difference that expertise and care can make in every project.",
+
+  "footer":{
+    "about":"About us",
+    "paragraph":"We are dedicated to providing top-quality plumbing services to our customers With years of experience in the industry, our team of professional plumbers is committed to delivering reliable and efficient solutions for all your plumbing needs. Whether it's a simple repair or a complex installation, we strive to exceed expectations and ensure customer satisfaction with every job we undertake.",
+    "links":"Our links",
+    "contact":"Our contact",
+    "email":"Email"
+  },
+
+  "form": {
+    "name": "Name",
+    "email": "Email",
+    "subject": "Subject",
+    "message": "Message",
+    "submit": "Send"
+  },
+
+  "contactInfo": {
+    "touch": "Get in touch",
+    "address": "7CV9+6GM, Karada Kharidge, Baghdad"
+  },
+
+  "workHours": {
+    "title": "Work Hours",
+    "saturday": "Saturday:",
+    "sunday": "Sunday:",
+    "monday": "Monday:",
+    "tuesday": "Tuesday:",
+    "wednesday": "Wednesday:",
+    "thursday": "Thursday:",
+    "friday": "Friday:",
+    "time": "9:30am - 4:00pm"
+  },
+
+  "aboutUs": {
+    "title": "About Us",
+    "paragraph1": "Mountains Mechanical is established in 1998, our plumbing company brings over 25 years of expert experience in plumbing, heating, and AC services. Founded by a team of dedicated engineers, we have successfully served numerous cities across Iraq. Our track record boasts a series of triumphs, reflecting our unwavering commitment to excellence. Devoted to upholding the highest standards, we persistently strive to build upon our legacy of success.",
+
+    "paragraph2": "At our core, we place the utmost emphasis on customer satisfaction. Our team is dedicated to providing exceptional service, tailored to meet the unique needs of each client. Whether it's a minor repair or a large-scale installation, we approach every project with the same level of professionalism, attention to detail, and respect for our customers' time and properties.",
+
+    "paragraph3": "As industry leaders, we constantly seek to innovate and enhance our services. Utilizing cutting-edge technologies and staying abreast of industry advancements, we ensure that our clients receive the most efficient and sustainable solutions available. Our commitment to quality craftsmanship, combined with our passion for innovation, distinguishes us as the premier choice for all your plumbing, heating, and AC needs in Iraq."
+  },
+  "serviceTitle": "Services",
+  "residentialTitle": "Residential & Commercial services",
+  "renovationTitle": "Renovation Services",
+  "renovationDesc1": " In addition to our unmatched expertise in plumbing, heating, and AC, we proudly offer comprehensive renovation services to revitalize and transform your residential or commercial spaces. Our seasoned team of professionals is adept at delivering full-scale renovation projects, encompassing meticulous planning, precise execution, and superior craftsmanship. From modernizing bathrooms and kitchens to overhauling entire property interiors, our renovation services are tailored to elevate the aesthetic appeal, functionality, and value of your esteemed properties.",
+  
+  "renovationDesc2": "With an unwavering dedication to excellence, our company provides end-to-end renovation expertise, ensuring a seamless and stress-free experience for our clients. Through a meticulous attention to detail and a keen understanding of design trends and building codes, we meticulously manage every aspect of your renovation project. Our commitment to delivering superior results, coupled with transparent communication and adherence to timelines, positions us as the trusted partner for all your renovation endeavors in Iraq.",
+
+  "serviceCards":  [
+    {
+      "residential": "Toilets Troubles"
+    },
+    {
+      "residential": "Leaky Water Heaters"
+    },
+    {
+      "residential": "Broken Sinks"
+    },
+    {
+      "residential": "Shower installation"
+    },
+    {
+      "residential": "Pipe Repair & Replacement"
+    },
+    {
+      "residential": "Sewer Issues"
+    },
+    {
+      "residential": "Hot water Tank installation"
+    },
+    {
+      "residential": "Clogged drain repair"
+    },
+    {
+      "residential": "Toilet repair & installation"
+    },
+    {
+      "residential": "Drains cleaning services"
+    },
+    {
+      "residential": "Re-Piping"
+    }
+  ],
+  "projectListTitle": "Highlighted Projects",
+  "projectList": [
+    {
+      "src": "/images/image1.jpeg",
+      "alt": "hotel",
+      "title": "Hotel",
+      "desc": "Hotel in Erbil",
+      "status":"Completed"
+    },
+    {
+      "src": "/images/image3.jpeg",
+      "alt": "commercial building ",
+      "title": "commercial building",
+      "desc": "Commercial building in Dohuk",
+      "status": "Completed"
+    },
+    {
+      "src": "/images/image5.jpeg",
+      "alt": "commercial building",
+      "title": "Commercial building",
+      "desc": "Commercial building in Baghdad",
+      "status": "Completed"
+    },
+    {
+      "src": "/images/image4.jpeg",
+      "alt": "residential building",
+      "title": "Residential building",
+      "desc": "Residential building in Erbil",
+      "status": "Completed"
+    },
+    {
+      "src": "/images/project1.jpeg",
+      "alt": "residential building",
+      "title": "Residential building",
+      "desc": "Residential building in Dohuk",
+      "status": "Completed"
+    },
+    {
+      "src": "/images/image2.jpeg",
+      "alt": "commercial building",
+      "title": "Commercial building",
+      "desc": "Commercial building in Erbil",
+      "status": "Completed"
+
+    }
+  ]
+  
+  
+ 
+}
+
